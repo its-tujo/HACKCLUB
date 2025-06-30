@@ -1,23 +1,20 @@
 # HACKCLUB Python Project
 
-Ein Python-Projekt mit verschiedenen Skripten.
+A Python-Projekt with Stuff
 
-## Dateien
+## Files
 
-- `yip.py` - Ein interaktives Python-Skript mit Begrüßungen und Witzen
-- `hap.py` - Ein weiteres Python-Skript
+- `yip.py` - Briefing ig
 
-## Ausführung
+## How to run
 
 ```bash
 python yip.py
-python hap.py
 ```
 
-## Anforderungen
+## Requirements
 
-- Python 3.x
-- requests (für API-Aufrufe in yip.py)
+- Python 3.x requests(for  API-Calls in yip.py)
 
 ## Installation
 
@@ -25,6 +22,6 @@ python hap.py
 pip install requests
 ```
 
-## Verwendung
+## Usage
 
-Führen Sie die Skripte aus und folgen Sie den Anweisungen auf dem Bildschirm.
+run the script
