@@ -9,9 +9,8 @@ import asyncio
 #Some definitions
 
 async def print_joke():
-    requests.get("https://official-joke-api.appspot.com/jokes/random/1").json()
     joke = requests.get("https://official-joke-api.appspot.com/jokes/random").jsonclea
-
+    print(f"{joke['setup']} - {joke['punchline']}")
 
 
 
